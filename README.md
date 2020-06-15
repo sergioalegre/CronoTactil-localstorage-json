@@ -32,7 +32,7 @@ Cronometro con JSON, LocalStorage y Eventos táctiles (movil).  <a href="http://
 <br><br>
 <p align="center">
   <a href="http://sergioalegre.es/Programacion/_CronoTactil/Crono-tactil-json-localstorage.html">
-    <img src="http://sergioalegre.es/Programacion/_CronoTactil/captura.PNG" alt="Logo" width="360" height="">
+    <img src="http://sergioalegre.es/Programacion/_CronoTactil/Captura.PNG" alt="Logo" width="360" height="">
   </a>
 </p>
 
