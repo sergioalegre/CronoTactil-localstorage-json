@@ -40,6 +40,8 @@ Cronometro con JSON, LocalStorage y Eventos táctiles (movil).  <a href="http://
 Email: sergio.alegre.arribas EN gmail.com
 <br>
 LinkedIn: https://www.linkedin.com/in/sergioalegre
+<br>
+Website: http://me.sergioalegre.es
 
 
 ### Built With
